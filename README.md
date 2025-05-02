@@ -250,6 +250,5 @@ You now have a complete end-to-end ML project:
 
 ```
 
----
-author : SHARATH VN !!!!^_^
-```
+## Author : SHARATH VN !!!!^_^
+
